@@ -1,0 +1,7 @@
+{
+  "match_score": 78,
+  "match_level": "Good Match",
+  "missing_skills": ["sql"],
+  "suggestion": "Improve your resume by adding: sql",
+  "explanation": "Score based on semantic similarity and skill matching"
+}
